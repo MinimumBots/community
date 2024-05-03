@@ -1,0 +1,16 @@
+{
+  "name": "ping",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {},
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.12.1",
+    "tweetnacl": "^1.0.3"
+  },
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.137",
+    "@types/node": "^20.12.8",
+    "typescript": "^5.4.5"
+  }
+}
